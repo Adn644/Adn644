@@ -57,12 +57,27 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge\&logo=pytorch)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge\&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-blue?style=for-the-badge)
+
+### 📊 Data Analytics & Visualization
+
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-teal?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-darkblue?style=for-the-badge)
+
+### 🎨 Design & Productivity
+
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
 ### 🛠️ Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 

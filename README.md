@@ -69,6 +69,9 @@
 ## 📊 GitHub Stats
 
 https://github-readme-streak-stats.herokuapp.com/?user=Adn644&theme=tokyonight
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adn644&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 

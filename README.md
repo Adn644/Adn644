@@ -69,8 +69,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adn644&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adn644&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adn644&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/aishee-dutta-031568317" target="_blank">
+  <a href="https://www.linkedin.com/in/aishee-dutta-031568317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:duttaaishee644@gmail.com">

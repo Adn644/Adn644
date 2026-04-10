@@ -69,8 +69,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adn644&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adn644&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adn644&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adn644&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
   <a href="https://www.linkedin.com/in/aishee-dutta-031568317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:duttaaishee644@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=duttaaishee644@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>

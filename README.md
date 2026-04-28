@@ -94,7 +94,7 @@
 ✔️ Published research in AI-based healthcare solution
 ✔️ Built high-accuracy ML models on medical datasets
 ✔️ Hands-on experience with advanced preprocessing pipelines
-✔️ 1+ year teaching experience (strong communication skills)
+✔️ 3+ year teaching experience (strong communication skills)
 
 ---
 

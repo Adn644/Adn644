@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist in Progress | AI/ML enthusiast | Building Real-World Projects | Open to Opportunities </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#FF4081&center=true&vCenter=true&lines=AI%2FML+Engineer;Data+Analyst;Published+Researcher;Data+Science+Enthusiast;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4081&center=true&vCenter=true&lines=AI%2FML+Engineer;Data+Analyst;Published+Researcher;Data+Science+Enthusiast;Open+to+Opportunities" />
 </p>
 
 ---

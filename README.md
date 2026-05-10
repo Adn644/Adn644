@@ -81,15 +81,11 @@
 
 ---
 <div align="center">
+<!-- Reliable stats via statscards.com -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adn644&theme=tokyonight)
 
-<!-- Stats Card — uses ghchart.rshah.org which is more reliable -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adn644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adn644&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- Streak — use streak-stats with cache bust -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Adn644&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adn644&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adn644&theme=tokyonight)
 
 </div>
 ---
@@ -99,7 +95,7 @@
 ✔️ Published research in AI-based healthcare solution
 ✔️ Built high-accuracy ML models on medical datasets
 ✔️ Hands-on experience with advanced preprocessing pipelines
-✔️ 3+ year teaching experience (strong communication skills)
+✔️ 4+ year teaching experience (strong communication skills)
 
 ---
 

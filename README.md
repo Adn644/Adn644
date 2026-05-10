@@ -80,13 +80,16 @@
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
+<!-- GitHub Stats -->
+<div align="center">
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adn644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adn644&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adn644&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Adn644&theme=tokyonight&hide_border=true)
+
+</div>
 ---
 
 ## 🏆 Achievements

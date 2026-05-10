@@ -85,7 +85,6 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adn644&theme=tokyonight)
 
 </div>
----
 
 ## 🏆 Achievements
 

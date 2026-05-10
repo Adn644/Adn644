@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishee Dutta</h1>
-<h3 align="center">Data Scientist in Progress | AI/ML enthusiast | Building Real-World Projects | Open to Opportunities </h3>
+<h3 align="center">Data Analyst | AI/ML enthusiast | Building Real-World Projects | Open to Opportunities </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF4081&center=true&vCenter=true&lines=AI%2FML+Engineer;Data+Analyst;Published+Researcher;Data+Science+Enthusiast;Open+to+Opportunities" />
@@ -22,8 +22,8 @@
 
 * 📄 *Published Research Paper*
 * 🧠 Combines **Graph Neural Networks + Swin Transformer**
-* 📊 Focus on early-stage detection using MRI imaging
-* ⚙️ Advanced preprocessing using **nnU-Net**
+* 📊 Achieved 92.1% accuracy, 91.0% F1-score, 0.947 ROC-AUC
+* ⚙️ Advanced preprocessing using **FastSurferCNN**
 
 📌 This project reflects my strong interest in **AI for Healthcare & research-driven development**
 
@@ -32,16 +32,27 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Alzheimer’s Disease Detection
+*Python, TensorFlow, Keras, GNN, Swin Transformer, nnU-Net*
 
-* Deep Learning-based medical imaging solution
-* High accuracy model for early diagnosis
+* Hybrid **GNN + Swin Transformer** architecture for detecting Alzheimer's from 3D MRI scans
+* Built complete ML pipeline: preprocessing, feature engineering, hyperparameter tuning & evaluation
 * Research-backed implementation
+---
 
-### 🛒 Smart Cart System
+### 🔍 PrivyScan — AI Privacy Policy Analyzer
+*Python, FastAPI, React.js, Docker, Hugging Face, Vercel, Render*
 
-* IoT-based automated shopping solution
-* Focus on real-world automation and efficiency
+* AI-powered web app that reads & rates Terms & Conditions from **A to E** — so you know what you're agreeing to before you click accept
+* Full-stack architecture: React frontend · FastAPI backend · ML inference on Hugging Face Spaces
+* Deployed end-to-end with Docker containerization
+* 🌐 [Live Demo](https://privy-scan.vercel.app) · [GitHub](https://github.com/Adn644/PrivyScan)
+---
 
+### 🛒 SmartCart — IoT-Based Retail Automation
+*React.js, Node.js, MongoDB, ESP8266, Load Cell, IoT*
+
+* Full-stack IoT-enabled smart billing system with real-time weight sensing, QR-based checkout & cloud-synced cart management
+* Architected the backend API and MongoDB data layer; integrated ESP8266 microcontroller with the web frontend for end-to-end automation
 ---
 
 ## ⚙️ Tech Stack
@@ -68,6 +79,12 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+### 🌐 Web & IoT
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
 ### 🛠️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -88,10 +105,10 @@
 
 ## 🏆 Achievements
 
-✔️ Published research in AI-based healthcare solution
-✔️ Built high-accuracy ML models on medical datasets
+✔️ Published research at **IEEE CICT 2025** — AI-based healthcare solution
+✔️ Built high-accuracy ML models (92.1% accuracy) on medical datasets
 ✔️ Hands-on experience with advanced preprocessing pipelines
-✔️ 4+ year teaching experience (strong communication skills)
+✔️ Top 12 teams (internal round) — **Smart India Hackathon (SIH) 2024**
 
 ---
 
@@ -99,10 +116,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aishee-dutta-031568317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=duttaaishee644@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:duttaaishee644@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Adn644" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -120,4 +140,4 @@
 
 ---
 
-⭐️ From Aishee Dutta
+⭐️ From [Aishee Dutta](https://github.com/Adn644)

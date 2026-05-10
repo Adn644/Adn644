@@ -9,10 +9,9 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech in Computer Science (Data Science)
-💡 Passionate about **AI/ML, Deep Learning & Real-World Problem Solving**
-📊 Strong focus on **Healthcare AI & Intelligent Systems**
-🚀 Currently preparing for **AI/ML roles (Internship + Full-Time)**
+* 🎓 B.Tech in Computer Science (Data Science)
+* 💡 Passionate about **AI/ML, Deep Learning & Real-World Problem Solving**
+* 🚀 Currently preparing for **AI/ML roles (Internship + Full-Time)**
 
 ---
 

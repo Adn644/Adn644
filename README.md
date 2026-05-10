@@ -37,6 +37,7 @@
 * Hybrid **GNN + Swin Transformer** architecture for detecting Alzheimer's from 3D MRI scans
 * Built complete ML pipeline: preprocessing, feature engineering, hyperparameter tuning & evaluation
 * Research-backed implementation
+* 📄 [Paper](https://ieeexplore.ieee.org/document/11399018)
 ---
 
 ### 🔍 PrivyScan — AI Privacy Policy Analyzer
@@ -53,6 +54,7 @@
 
 * Full-stack IoT-enabled smart billing system with real-time weight sensing, QR-based checkout & cloud-synced cart management
 * Architected the backend API and MongoDB data layer; integrated ESP8266 microcontroller with the web frontend for end-to-end automation
+* 🌐 [Live Demo](https://io-t-based-smart-cart.vercel.app/) · [GitHub](https://github.com/AfifaSadiq/IoT_Based_Smart_Cart)
 ---
 
 ## ⚙️ Tech Stack

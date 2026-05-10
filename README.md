@@ -80,14 +80,16 @@
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
-<!-- GitHub Stats -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adn644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- Stats Card — uses ghchart.rshah.org which is more reliable -->
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adn644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adn644&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adn644&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Adn644&theme=tokyonight&hide_border=true)
+<!-- Streak — use streak-stats with cache bust -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Adn644&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 ---

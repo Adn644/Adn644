@@ -45,7 +45,7 @@
 * AI-powered web app that reads & rates Terms & Conditions from **A to E** — so you know what you're agreeing to before you click accept
 * Full-stack architecture: React frontend · FastAPI backend · ML inference on Hugging Face Spaces
 * Deployed end-to-end with Docker containerization
-* 🌐 [Live Demo](https://privy-scan.vercel.app) · [GitHub](https://github.com/Adn644/PrivyScan)
+* 🌐 [Website](https://privy-scan.vercel.app) · [GitHub](https://github.com/Adn644/PrivyScan)
 ---
 
 ### 🛒 SmartCart — IoT-Based Retail Automation
@@ -53,7 +53,7 @@
 
 * Full-stack IoT-enabled smart billing system with real-time weight sensing, QR-based checkout & cloud-synced cart management
 * Architected the backend API and MongoDB data layer; integrated ESP8266 microcontroller with the web frontend for end-to-end automation
-* 🌐 [Live Demo](https://io-t-based-smart-cart.vercel.app/) · [GitHub](https://github.com/AfifaSadiq/IoT_Based_Smart_Cart)
+* 🌐 [Website](https://io-t-based-smart-cart.vercel.app/) · [GitHub](https://github.com/AfifaSadiq/IoT_Based_Smart_Cart)
 ---
 
 ## ⚙️ Tech Stack

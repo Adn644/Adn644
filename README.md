@@ -98,10 +98,6 @@
 
 <!-- Reliable stats via statscards.com -->
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adn644&theme=tokyonight)
-
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adn644&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adn644&theme=tokyonight)
-
 </div>
 
 ## 🏆 Achievements
